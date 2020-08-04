@@ -1,0 +1,299 @@
+
+twinheadogre.png
+size: 4984,4965
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest plate
+  rotate: false
+  xy: 1232, 2048
+  size: 1871, 830
+  orig: 1873, 833
+  offset: 1, 1
+  index: -1
+chest plate 2
+  rotate: false
+  xy: 2650, 3712
+  size: 963, 592
+  orig: 994, 595
+  offset: 2, 2
+  index: -1
+left arm
+  rotate: true
+  xy: 2077, 930
+  size: 963, 1919
+  orig: 963, 1919
+  offset: 0, 0
+  index: -1
+left arm amour
+  rotate: true
+  xy: 881, 3088
+  size: 734, 868
+  orig: 737, 877
+  offset: 2, 8
+  index: -1
+left eye 1
+  rotate: false
+  xy: 2, 4880
+  size: 85, 83
+  orig: 87, 85
+  offset: 1, 1
+  index: -1
+left eye 2
+  rotate: false
+  xy: 181, 4839
+  size: 127, 124
+  orig: 129, 126
+  offset: 1, 1
+  index: -1
+left eye ball
+  rotate: false
+  xy: 680, 4770
+  size: 337, 193
+  orig: 340, 195
+  offset: 2, 1
+  index: -1
+left feet
+  rotate: true
+  xy: 1309, 3824
+  size: 545, 694
+  orig: 545, 694
+  offset: 0, 0
+  index: -1
+left hand amour
+  rotate: true
+  xy: 3402, 2775
+  size: 838, 991
+  orig: 840, 993
+  offset: 1, 1
+  index: -1
+left hat left parts 1
+  rotate: true
+  xy: 1019, 4765
+  size: 198, 823
+  orig: 198, 823
+  offset: 0, 0
+  index: -1
+left hat left parts 2
+  rotate: true
+  xy: 2606, 4704
+  size: 259, 633
+  orig: 259, 633
+  offset: 0, 0
+  index: -1
+left hat right parts
+  rotate: true
+  xy: 4101, 4695
+  size: 268, 706
+  orig: 268, 706
+  offset: 0, 0
+  index: -1
+left head
+  rotate: true
+  xy: 2, 2
+  size: 1082, 1339
+  orig: 1082, 1339
+  offset: 0, 0
+  index: -1
+left head chin
+  rotate: false
+  xy: 3615, 3615
+  size: 961, 603
+  orig: 961, 603
+  offset: 0, 0
+  index: -1
+left head hat front
+  rotate: false
+  xy: 2747, 4306
+  size: 1056, 391
+  orig: 1058, 394
+  offset: 1, 1
+  index: -1
+left leg
+  rotate: false
+  xy: 4102, 1553
+  size: 880, 1220
+  orig: 880, 1220
+  offset: 0, 0
+  index: -1
+left leg amour
+  rotate: true
+  xy: 1631, 4371
+  size: 353, 639
+  orig: 355, 642
+  offset: 1, 1
+  index: -1
+left shoulder amour
+  rotate: false
+  xy: 2, 1289
+  size: 973, 931
+  orig: 975, 946
+  offset: 1, 14
+  index: -1
+left shoulder amour back
+  rotate: false
+  xy: 2272, 4324
+  size: 473, 378
+  orig: 475, 380
+  offset: 1, 1
+  index: -1
+left tooth
+  rotate: true
+  xy: 486, 4808
+  size: 155, 192
+  orig: 157, 195
+  offset: 1, 2
+  index: -1
+pants
+  rotate: true
+  xy: 2, 3245
+  size: 730, 877
+  orig: 732, 880
+  offset: 1, 1
+  index: -1
+right arm amour
+  rotate: true
+  xy: 308, 4474
+  size: 289, 742
+  orig: 291, 744
+  offset: 1, 1
+  index: -1
+right arm amour back
+  rotate: true
+  xy: 2, 3995
+  size: 477, 741
+  orig: 479, 743
+  offset: 1, 1
+  index: -1
+right eye 1
+  rotate: false
+  xy: 89, 4874
+  size: 90, 89
+  orig: 92, 91
+  offset: 1, 1
+  index: -1
+right eye 2
+  rotate: true
+  xy: 310, 4815
+  size: 148, 174
+  orig: 150, 176
+  offset: 1, 1
+  index: -1
+right eye ball
+  rotate: false
+  xy: 2, 4526
+  size: 304, 311
+  orig: 306, 313
+  offset: 1, 1
+  index: -1
+right feet
+  rotate: false
+  xy: 2005, 3714
+  size: 643, 608
+  orig: 643, 608
+  offset: 0, 0
+  index: -1
+right finger
+  rotate: true
+  xy: 3105, 1895
+  size: 878, 995
+  orig: 878, 995
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: true
+  xy: 1751, 2880
+  size: 830, 1649
+  orig: 830, 1649
+  offset: 0, 0
+  index: -1
+right hat left parts
+  rotate: true
+  xy: 3241, 4699
+  size: 264, 858
+  orig: 264, 858
+  offset: 0, 0
+  index: -1
+right hat right parts
+  rotate: true
+  xy: 1844, 4726
+  size: 237, 760
+  orig: 237, 760
+  offset: 0, 0
+  index: -1
+right head chin
+  rotate: false
+  xy: 3805, 4220
+  size: 781, 473
+  orig: 781, 473
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: true
+  xy: 2, 2222
+  size: 864, 1228
+  orig: 864, 1228
+  offset: 0, 0
+  index: -1
+right leg amour
+  rotate: true
+  xy: 1052, 4464
+  size: 299, 577
+  orig: 302, 580
+  offset: 2, 2
+  index: -1
+right shoulder amour
+  rotate: true
+  xy: 977, 1086
+  size: 960, 1098
+  orig: 963, 1100
+  offset: 2, 1
+  index: -1
+right shoulder amour back
+  rotate: false
+  xy: 745, 3977
+  size: 562, 485
+  orig: 564, 487
+  offset: 1, 1
+  index: -1
+
+twinheadogre2.png
+size: 4692,4186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 519
+  size: 2577, 2473
+  orig: 2577, 2473
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: true
+  xy: 2477, 1886
+  size: 1210, 1963
+  orig: 1210, 1963
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: false
+  xy: 2477, 2
+  size: 1120, 1882
+  orig: 1120, 1882
+  offset: 0, 0
+  index: -1
+right head
+  rotate: false
+  xy: 3599, 714
+  size: 1091, 1170
+  orig: 1091, 1170
+  offset: 0, 0
+  index: -1
+weap
+  rotate: true
+  xy: 2, 3098
+  size: 1086, 4386
+  orig: 1090, 4388
+  offset: 2, 1
+  index: -1

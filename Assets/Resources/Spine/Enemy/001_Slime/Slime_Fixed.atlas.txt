@@ -1,0 +1,388 @@
+
+Slime_Fixed.png
+size: 2048,1650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_Slime_normal/Slime_E_Angry
+  rotate: false
+  xy: 406, 1318
+  size: 273, 130
+  orig: 276, 134
+  offset: 1, 2
+  index: -1
+001_Slime_normal/Slime_E_Angry_L
+  rotate: true
+  xy: 1250, 1550
+  size: 98, 173
+  orig: 101, 176
+  offset: 2, 2
+  index: -1
+001_Slime_normal/Slime_E_Angry_R
+  rotate: true
+  xy: 474, 1450
+  size: 107, 192
+  orig: 110, 195
+  offset: 1, 2
+  index: -1
+001_Slime_normal/Slime_E_Blink_L
+  rotate: false
+  xy: 2, 1596
+  size: 89, 52
+  orig: 91, 54
+  offset: 1, 1
+  index: -1
+001_Slime_normal/Slime_E_Blink_R
+  rotate: false
+  xy: 275, 1594
+  size: 83, 54
+  orig: 85, 56
+  offset: 1, 1
+  index: -1
+001_Slime_normal/Slime_E_Die_L
+  rotate: true
+  xy: 2, 1170
+  size: 191, 192
+  orig: 193, 194
+  offset: 1, 1
+  index: -1
+001_Slime_normal/Slime_E_Die_R
+  rotate: true
+  xy: 2, 1170
+  size: 191, 192
+  orig: 193, 194
+  offset: 1, 1
+  index: -1
+001_Slime_normal/Slime_E_Normal_L
+  rotate: true
+  xy: 530, 1559
+  size: 89, 238
+  orig: 91, 240
+  offset: 1, 1
+  index: -1
+001_Slime_normal/Slime_E_Normal_R
+  rotate: true
+  xy: 1425, 1550
+  size: 98, 234
+  orig: 100, 236
+  offset: 1, 1
+  index: -1
+001_Slime_normal/Slime_E_hurted_L
+  rotate: true
+  xy: 584, 1116
+  size: 200, 206
+  orig: 202, 209
+  offset: 1, 1
+  index: -1
+001_Slime_normal/Slime_E_hurted_R
+  rotate: true
+  xy: 381, 894
+  size: 220, 245
+  orig: 223, 248
+  offset: 1, 2
+  index: -1
+001_Slime_normal/Slime_M_Attack_001
+  rotate: true
+  xy: 2, 496
+  size: 396, 401
+  orig: 398, 403
+  offset: 1, 1
+  index: -1
+001_Slime_normal/Slime_M_Attack_002
+  rotate: true
+  xy: 1231, 1264
+  size: 153, 299
+  orig: 157, 302
+  offset: 2, 1
+  index: -1
+001_Slime_normal/Slime_M_Fury_L
+  rotate: false
+  xy: 1056, 1419
+  size: 402, 129
+  orig: 404, 131
+  offset: 1, 1
+  index: -1
+001_Slime_normal/Slime_M_Nervous
+  rotate: false
+  xy: 792, 1093
+  size: 377, 192
+  orig: 380, 195
+  offset: 2, 2
+  index: -1
+002_Slime_Knignt/ARmor_CT
+  rotate: false
+  xy: 2, 2
+  size: 613, 469
+  orig: 615, 471
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/ARmor_Left
+  rotate: true
+  xy: 1600, 733
+  size: 312, 446
+  orig: 314, 448
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/ARmor_Right
+  rotate: true
+  xy: 1122, 780
+  size: 280, 476
+  orig: 282, 479
+  offset: 1, 2
+  index: -1
+002_Slime_Knignt/Slime_E_Angry
+  rotate: false
+  xy: 681, 1318
+  size: 273, 130
+  orig: 276, 134
+  offset: 1, 2
+  index: -1
+002_Slime_Knignt/Slime_E_Angry_L
+  rotate: true
+  xy: 1661, 1550
+  size: 98, 173
+  orig: 101, 176
+  offset: 2, 2
+  index: -1
+002_Slime_Knignt/Slime_E_Angry_R
+  rotate: true
+  xy: 668, 1450
+  size: 107, 192
+  orig: 110, 195
+  offset: 1, 2
+  index: -1
+002_Slime_Knignt/Slime_E_Blink_L
+  rotate: false
+  xy: 93, 1596
+  size: 89, 52
+  orig: 91, 54
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/Slime_E_Blink_R
+  rotate: false
+  xy: 360, 1594
+  size: 83, 54
+  orig: 85, 56
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/Slime_E_Die_L
+  rotate: true
+  xy: 196, 1170
+  size: 191, 192
+  orig: 193, 194
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/Slime_E_Die_R
+  rotate: true
+  xy: 196, 1170
+  size: 191, 192
+  orig: 193, 194
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/Slime_E_Normal_L
+  rotate: true
+  xy: 770, 1559
+  size: 89, 238
+  orig: 91, 240
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/Slime_E_Normal_R
+  rotate: true
+  xy: 2, 1496
+  size: 98, 234
+  orig: 100, 236
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/Slime_E_hurted_L
+  rotate: true
+  xy: 1550, 1062
+  size: 200, 206
+  orig: 202, 209
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/Slime_E_hurted_R
+  rotate: true
+  xy: 628, 871
+  size: 220, 245
+  orig: 223, 248
+  offset: 1, 2
+  index: -1
+002_Slime_Knignt/Slime_M_Attack_001
+  rotate: true
+  xy: 405, 473
+  size: 396, 401
+  orig: 398, 403
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/Slime_M_Attack_002
+  rotate: true
+  xy: 1532, 1264
+  size: 153, 299
+  orig: 157, 302
+  offset: 2, 1
+  index: -1
+002_Slime_Knignt/Slime_M_Fury_L
+  rotate: false
+  xy: 1460, 1419
+  size: 402, 129
+  orig: 404, 131
+  offset: 1, 1
+  index: -1
+002_Slime_Knignt/Slime_M_Nervous
+  rotate: false
+  xy: 1171, 1070
+  size: 377, 192
+  orig: 380, 195
+  offset: 2, 2
+  index: -1
+003_Slime_King/Slime_E_Angry
+  rotate: false
+  xy: 956, 1287
+  size: 273, 130
+  orig: 276, 134
+  offset: 1, 2
+  index: -1
+003_Slime_King/Slime_E_Angry_L
+  rotate: true
+  xy: 1836, 1550
+  size: 98, 173
+  orig: 101, 176
+  offset: 2, 2
+  index: -1
+003_Slime_King/Slime_E_Angry_R
+  rotate: true
+  xy: 862, 1450
+  size: 107, 192
+  orig: 110, 195
+  offset: 1, 2
+  index: -1
+003_Slime_King/Slime_E_Blink_L
+  rotate: false
+  xy: 184, 1596
+  size: 89, 52
+  orig: 91, 54
+  offset: 1, 1
+  index: -1
+003_Slime_King/Slime_E_Blink_R
+  rotate: false
+  xy: 445, 1594
+  size: 83, 54
+  orig: 85, 56
+  offset: 1, 1
+  index: -1
+003_Slime_King/Slime_E_Die_L
+  rotate: true
+  xy: 390, 1125
+  size: 191, 192
+  orig: 193, 194
+  offset: 1, 1
+  index: -1
+003_Slime_King/Slime_E_Die_R
+  rotate: true
+  xy: 390, 1125
+  size: 191, 192
+  orig: 193, 194
+  offset: 1, 1
+  index: -1
+003_Slime_King/Slime_E_Normal_L
+  rotate: true
+  xy: 1010, 1559
+  size: 89, 238
+  orig: 91, 240
+  offset: 1, 1
+  index: -1
+003_Slime_King/Slime_E_Normal_R
+  rotate: true
+  xy: 238, 1494
+  size: 98, 234
+  orig: 100, 236
+  offset: 1, 1
+  index: -1
+003_Slime_King/Slime_E_hurted_L
+  rotate: true
+  xy: 1758, 1047
+  size: 200, 206
+  orig: 202, 209
+  offset: 1, 1
+  index: -1
+003_Slime_King/Slime_E_hurted_R
+  rotate: true
+  xy: 875, 871
+  size: 220, 245
+  orig: 223, 248
+  offset: 1, 2
+  index: -1
+003_Slime_King/Slime_M_Attack_001
+  rotate: true
+  xy: 808, 382
+  size: 396, 401
+  orig: 398, 403
+  offset: 1, 1
+  index: -1
+003_Slime_King/Slime_M_Attack_002
+  rotate: false
+  xy: 1864, 1249
+  size: 153, 299
+  orig: 157, 302
+  offset: 2, 1
+  index: -1
+003_Slime_King/Slime_M_Fury_L
+  rotate: false
+  xy: 2, 1363
+  size: 402, 129
+  orig: 404, 131
+  offset: 1, 1
+  index: -1
+003_Slime_King/Slime_M_Nervous
+  rotate: false
+  xy: 2, 976
+  size: 377, 192
+  orig: 380, 195
+  offset: 2, 2
+  index: -1
+003_Slime_King/crown
+  rotate: false
+  xy: 1211, 291
+  size: 711, 440
+  orig: 720, 443
+  offset: 7, 1
+  index: -1
+
+Slime_Fixed2.png
+size: 1202,1227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_Slime_normal/Slime_B
+  rotate: false
+  xy: 2, 2
+  size: 1198, 1223
+  orig: 1198, 1223
+  offset: 0, 0
+  index: -1
+
+Slime_Fixed3.png
+size: 1202,1227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+003_Slime_King/Slime_B
+  rotate: false
+  xy: 2, 2
+  size: 1198, 1223
+  orig: 1198, 1223
+  offset: 0, 0
+  index: -1
+
+Slime_Fixed4.png
+size: 1202,1227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+002_Slime_Knignt/Slime_B
+  rotate: false
+  xy: 2, 2
+  size: 1198, 1223
+  orig: 1198, 1223
+  offset: 0, 0
+  index: -1

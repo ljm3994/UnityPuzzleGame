@@ -1,0 +1,370 @@
+
+한주연_스파인.png
+size: 1986,1095
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 1110, 25
+  size: 103, 132
+  orig: 105, 135
+  offset: 1, 2
+  index: -1
+Arm_L2
+  rotate: true
+  xy: 1432, 104
+  size: 109, 123
+  orig: 112, 125
+  offset: 2, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 1897, 508
+  size: 87, 128
+  orig: 90, 130
+  offset: 2, 1
+  index: -1
+Arm_R2
+  rotate: true
+  xy: 1557, 83
+  size: 97, 117
+  orig: 99, 119
+  offset: 1, 1
+  index: -1
+Back hair_1
+  rotate: false
+  xy: 2, 2
+  size: 365, 545
+  orig: 365, 545
+  offset: 0, 0
+  index: -1
+Back hair_2
+  rotate: false
+  xy: 609, 741
+  size: 560, 352
+  orig: 560, 352
+  offset: 0, 0
+  index: -1
+Back hair_3
+  rotate: true
+  xy: 1595, 380
+  size: 70, 276
+  orig: 70, 276
+  offset: 0, 0
+  index: -1
+Body_Upper
+  rotate: true
+  xy: 1338, 249
+  size: 187, 231
+  orig: 189, 234
+  offset: 1, 1
+  index: -1
+Body_lower
+  rotate: false
+  xy: 1073, 264
+  size: 263, 241
+  orig: 263, 241
+  offset: 0, 0
+  index: -1
+Book_BackCover
+  rotate: true
+  xy: 630, 16
+  size: 211, 292
+  orig: 212, 292
+  offset: 0, 0
+  index: -1
+Book_Page_001
+  rotate: true
+  xy: 1092, 507
+  size: 205, 278
+  orig: 205, 278
+  offset: 0, 0
+  index: -1
+Book_Page_002
+  rotate: true
+  xy: 1092, 507
+  size: 205, 278
+  orig: 205, 278
+  offset: 0, 0
+  index: -1
+Book_Page_003
+  rotate: true
+  xy: 1613, 612
+  size: 201, 282
+  orig: 201, 282
+  offset: 0, 0
+  index: -1
+Book_Pages
+  rotate: false
+  xy: 1372, 438
+  size: 221, 274
+  orig: 221, 274
+  offset: 0, 0
+  index: -1
+Coat_Back
+  rotate: false
+  xy: 630, 229
+  size: 329, 323
+  orig: 329, 323
+  offset: 0, 0
+  index: -1
+Coat_L
+  rotate: false
+  xy: 369, 6
+  size: 259, 541
+  orig: 259, 541
+  offset: 0, 0
+  index: -1
+Coat_R
+  rotate: true
+  xy: 1171, 815
+  size: 278, 534
+  orig: 278, 534
+  offset: 0, 0
+  index: -1
+EyeClosed_L
+  rotate: true
+  xy: 1366, 12
+  size: 103, 51
+  orig: 105, 53
+  offset: 1, 1
+  index: -1
+EyeClosed_R
+  rotate: false
+  xy: 1843, 452
+  size: 139, 54
+  orig: 141, 56
+  offset: 1, 1
+  index: -1
+EyeSmiling_L
+  rotate: false
+  xy: 1528, 27
+  size: 91, 54
+  orig: 93, 57
+  offset: 1, 1
+  index: -1
+EyeSmiling_R
+  rotate: false
+  xy: 1566, 182
+  size: 136, 58
+  orig: 138, 60
+  offset: 1, 1
+  index: -1
+Eye_Open_L
+  rotate: false
+  xy: 1873, 331
+  size: 107, 119
+  orig: 110, 121
+  offset: 1, 1
+  index: -1
+Eye_Open_R
+  rotate: false
+  xy: 1110, 130
+  size: 149, 132
+  orig: 151, 134
+  offset: 1, 1
+  index: -1
+Eyebrow_1
+  rotate: false
+  xy: 1571, 242
+  size: 299, 32
+  orig: 302, 34
+  offset: 2, 1
+  index: -1
+Eyebrow_2
+  rotate: false
+  xy: 1571, 276
+  size: 296, 44
+  orig: 298, 47
+  offset: 1, 1
+  index: -1
+Eyebrow_3
+  rotate: false
+  xy: 1571, 322
+  size: 291, 56
+  orig: 294, 59
+  offset: 2, 2
+  index: -1
+Eyebrow_4
+  rotate: false
+  xy: 1261, 215
+  size: 303, 32
+  orig: 305, 34
+  offset: 1, 1
+  index: -1
+Foot_L
+  rotate: false
+  xy: 1818, 151
+  size: 103, 85
+  orig: 105, 87
+  offset: 1, 1
+  index: -1
+Foot_R
+  rotate: false
+  xy: 1818, 151
+  size: 103, 85
+  orig: 105, 87
+  offset: 1, 1
+  index: -1
+HairCenter_1
+  rotate: true
+  xy: 1595, 452
+  size: 158, 246
+  orig: 162, 246
+  offset: 0, 0
+  index: -1
+HairCenter_2
+  rotate: true
+  xy: 1171, 714
+  size: 99, 440
+  orig: 99, 441
+  offset: 0, 1
+  index: -1
+HairCenter_3
+  rotate: true
+  xy: 609, 554
+  size: 185, 481
+  orig: 185, 481
+  offset: 0, 0
+  index: -1
+HairCenter_4
+  rotate: false
+  xy: 961, 220
+  size: 110, 332
+  orig: 110, 332
+  offset: 0, 0
+  index: -1
+Hand_L_Grab
+  rotate: true
+  xy: 1783, 51
+  size: 96, 94
+  orig: 98, 96
+  offset: 1, 1
+  index: -1
+Hand_L_Spread
+  rotate: true
+  xy: 1872, 238
+  size: 91, 112
+  orig: 93, 114
+  offset: 1, 1
+  index: -1
+Hand_L_Unfole
+  rotate: false
+  xy: 1419, 9
+  size: 107, 93
+  orig: 109, 95
+  offset: 1, 1
+  index: -1
+Hand_R_Grab
+  rotate: false
+  xy: 1879, 54
+  size: 96, 94
+  orig: 98, 96
+  offset: 1, 1
+  index: -1
+Hand_R_Spread
+  rotate: true
+  xy: 1704, 149
+  size: 91, 112
+  orig: 93, 114
+  offset: 1, 1
+  index: -1
+Hand_R_Unfold
+  rotate: true
+  xy: 1676, 50
+  size: 97, 105
+  orig: 99, 107
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 549
+  size: 605, 544
+  orig: 607, 546
+  offset: 1, 1
+  index: -1
+Leg_L
+  rotate: false
+  xy: 1018, 24
+  size: 90, 194
+  orig: 92, 196
+  offset: 1, 1
+  index: -1
+Leg_L2
+  rotate: false
+  xy: 1897, 638
+  size: 87, 175
+  orig: 89, 177
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 924, 25
+  size: 92, 193
+  orig: 94, 195
+  offset: 1, 1
+  index: -1
+Leg_R2
+  rotate: true
+  xy: 1261, 117
+  size: 96, 169
+  orig: 98, 171
+  offset: 1, 1
+  index: -1
+Magicbook2
+  rotate: false
+  xy: 1707, 815
+  size: 241, 278
+  orig: 241, 278
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1244, 17
+  size: 120, 98
+  orig: 122, 100
+  offset: 1, 1
+  index: -1
+mouth_1
+  rotate: true
+  xy: 1950, 1011
+  size: 82, 15
+  orig: 84, 17
+  offset: 1, 1
+  index: -1
+mouth_2
+  rotate: true
+  xy: 1923, 150
+  size: 86, 55
+  orig: 89, 57
+  offset: 1, 1
+  index: -1
+mouth_3
+  rotate: false
+  xy: 1092, 720
+  size: 70, 19
+  orig: 72, 21
+  offset: 1, 1
+  index: -1
+mouth_4
+  rotate: false
+  xy: 1261, 249
+  size: 40, 13
+  orig: 42, 15
+  offset: 1, 1
+  index: -1
+mouth_5
+  rotate: true
+  xy: 1843, 523
+  size: 87, 40
+  orig: 89, 42
+  offset: 1, 1
+  index: -1
+mouth_6
+  rotate: false
+  xy: 1621, 42
+  size: 40, 39
+  orig: 42, 41
+  offset: 1, 1
+  index: -1

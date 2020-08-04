@@ -1,0 +1,251 @@
+
+Ria.png
+size: 1998,839
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 510, 2
+  size: 274, 320
+  orig: 274, 320
+  offset: 0, 0
+  index: -1
+Body_UnderSleeve_L
+  rotate: false
+  xy: 828, 301
+  size: 134, 282
+  orig: 140, 318
+  offset: 0, 32
+  index: -1
+Body_UnderSleeve_R
+  rotate: false
+  xy: 626, 555
+  size: 200, 282
+  orig: 215, 350
+  offset: 0, 38
+  index: -1
+EyeBrow_L
+  rotate: false
+  xy: 325, 256
+  size: 117, 20
+  orig: 120, 23
+  offset: 2, 1
+  index: -1
+EyeBrow_R
+  rotate: false
+  xy: 183, 256
+  size: 140, 20
+  orig: 144, 22
+  offset: 1, 1
+  index: -1
+Eye_Close
+  rotate: false
+  xy: 832, 11
+  size: 308, 41
+  orig: 310, 43
+  offset: 1, 1
+  index: -1
+Eye_Damaging
+  rotate: true
+  xy: 1774, 29
+  size: 327, 114
+  orig: 345, 117
+  offset: 1, 1
+  index: -1
+Eye_Normal
+  rotate: true
+  xy: 1276, 15
+  size: 348, 126
+  orig: 362, 128
+  offset: 3, 1
+  index: -1
+Eye_Shining
+  rotate: true
+  xy: 1142, 13
+  size: 350, 132
+  orig: 364, 135
+  offset: 3, 2
+  index: -1
+Face
+  rotate: false
+  xy: 101, 278
+  size: 523, 559
+  orig: 526, 561
+  offset: 2, 1
+  index: -1
+Foot_Armor_L
+  rotate: false
+  xy: 1359, 375
+  size: 97, 208
+  orig: 103, 218
+  offset: 3, 7
+  index: -1
+Foot_Armor_R
+  rotate: false
+  xy: 1036, 146
+  size: 102, 217
+  orig: 106, 222
+  offset: 2, 2
+  index: -1
+Foot_Thigh_L
+  rotate: false
+  xy: 939, 61
+  size: 95, 238
+  orig: 98, 242
+  offset: 1, 2
+  index: -1
+Foot_Thigh_R
+  rotate: false
+  xy: 832, 54
+  size: 105, 245
+  orig: 108, 248
+  offset: 2, 2
+  index: -1
+Foot_shoe_L
+  rotate: false
+  xy: 1890, 167
+  size: 101, 87
+  orig: 104, 90
+  offset: 1, 2
+  index: -1
+Foot_shoe_R
+  rotate: false
+  xy: 1036, 56
+  size: 101, 88
+  orig: 104, 90
+  offset: 1, 1
+  index: -1
+Hair_Backtail
+  rotate: true
+  xy: 964, 365
+  size: 218, 393
+  orig: 218, 393
+  offset: 0, 0
+  index: -1
+Hair_Downed
+  rotate: false
+  xy: 2, 236
+  size: 97, 601
+  orig: 97, 601
+  offset: 0, 0
+  index: -1
+Hair_Left
+  rotate: true
+  xy: 2, 7
+  size: 227, 506
+  orig: 231, 507
+  offset: 0, 0
+  index: -1
+Hair_Right
+  rotate: false
+  xy: 1404, 3
+  size: 368, 370
+  orig: 382, 370
+  offset: 0, 0
+  index: -1
+Hand_Arm_L
+  rotate: true
+  xy: 1567, 441
+  size: 142, 126
+  orig: 147, 141
+  offset: 3, 7
+  index: -1
+Hand_Arm_R
+  rotate: true
+  xy: 1803, 469
+  size: 114, 127
+  orig: 116, 129
+  offset: 1, 1
+  index: -1
+Hand_GrabbedHand_L
+  rotate: false
+  xy: 1890, 7
+  size: 75, 82
+  orig: 79, 85
+  offset: 2, 2
+  index: -1
+Hand_GrabbedHand_R
+  rotate: true
+  xy: 1890, 256
+  size: 100, 106
+  orig: 103, 108
+  offset: 2, 1
+  index: -1
+Hand_Shoulder_L
+  rotate: false
+  xy: 1695, 445
+  size: 106, 138
+  orig: 108, 140
+  offset: 1, 1
+  index: -1
+Hand_Shoulder_R
+  rotate: false
+  xy: 1458, 440
+  size: 107, 143
+  orig: 110, 146
+  offset: 2, 1
+  index: -1
+Hand_UnfoldHand_L
+  rotate: true
+  xy: 1890, 91
+  size: 74, 101
+  orig: 77, 104
+  offset: 2, 2
+  index: -1
+Hand_UnfoldHand_R
+  rotate: true
+  xy: 1803, 358
+  size: 109, 126
+  orig: 112, 128
+  offset: 2, 1
+  index: -1
+Mouth_Laugh
+  rotate: false
+  xy: 111, 240
+  size: 70, 36
+  orig: 72, 39
+  offset: 1, 1
+  index: -1
+Mouth_Shout
+  rotate: false
+  xy: 964, 309
+  size: 67, 54
+  orig: 69, 58
+  offset: 1, 2
+  index: -1
+Mouth_angry
+  rotate: true
+  xy: 101, 238
+  size: 38, 8
+  orig: 40, 10
+  offset: 1, 1
+  index: -1
+Mouth_smile
+  rotate: false
+  xy: 183, 246
+  size: 45, 8
+  orig: 48, 10
+  offset: 1, 1
+  index: -1
+Sword
+  rotate: true
+  xy: 832, 585
+  size: 252, 1136
+  orig: 252, 1136
+  offset: 0, 0
+  index: -1
+UnderClothe
+  rotate: true
+  xy: 626, 293
+  size: 260, 171
+  orig: 260, 171
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1695, 378
+  size: 65, 71
+  orig: 65, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,313 @@
+
+orclord.png
+size: 4996,4229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back fur
+  rotate: false
+  xy: 2, 1846
+  size: 1605, 589
+  orig: 1605, 589
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 628, 3652
+  size: 1029, 386
+  orig: 1029, 386
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 2341, 2
+  size: 1618, 1216
+  orig: 1618, 1216
+  offset: 0, 0
+  index: -1
+helmet back
+  rotate: true
+  xy: 2457, 3534
+  size: 453, 488
+  orig: 455, 490
+  offset: 1, 1
+  index: -1
+left arm
+  rotate: true
+  xy: 3572, 1220
+  size: 784, 1236
+  orig: 784, 1236
+  offset: 0, 0
+  index: -1
+left arm armour
+  rotate: true
+  xy: 2947, 3463
+  size: 492, 596
+  orig: 494, 598
+  offset: 1, 1
+  index: -1
+left arm armour 2
+  rotate: false
+  xy: 2945, 2864
+  size: 602, 571
+  orig: 604, 573
+  offset: 1, 1
+  index: -1
+left cos 1
+  rotate: true
+  xy: 438, 4106
+  size: 121, 435
+  orig: 121, 435
+  offset: 0, 0
+  index: -1
+left cos 2
+  rotate: true
+  xy: 1975, 4036
+  size: 191, 407
+  orig: 191, 407
+  offset: 0, 0
+  index: -1
+left cos 3
+  rotate: true
+  xy: 2384, 4032
+  size: 195, 461
+  orig: 195, 461
+  offset: 0, 0
+  index: -1
+left cosmetic
+  rotate: true
+  xy: 4228, 3924
+  size: 303, 321
+  orig: 305, 323
+  offset: 1, 1
+  index: -1
+left eye
+  rotate: false
+  xy: 3724, 3932
+  size: 502, 295
+  orig: 504, 297
+  offset: 1, 1
+  index: -1
+left eyebrow
+  rotate: false
+  xy: 3545, 3437
+  size: 670, 493
+  orig: 670, 675
+  offset: 0, 0
+  index: -1
+left foot
+  rotate: false
+  xy: 2, 3295
+  size: 512, 496
+  orig: 512, 496
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: true
+  xy: 1084, 575
+  size: 1100, 1255
+  orig: 1100, 1255
+  offset: 0, 0
+  index: -1
+left hand armour
+  rotate: true
+  xy: 3549, 2841
+  size: 594, 631
+  orig: 596, 634
+  offset: 1, 1
+  index: -1
+left hip armour
+  rotate: false
+  xy: 4217, 3249
+  size: 513, 507
+  orig: 516, 510
+  offset: 1, 1
+  index: -1
+left leg
+  rotate: true
+  xy: 2105, 2991
+  size: 541, 838
+  orig: 541, 838
+  offset: 0, 0
+  index: -1
+left shoulder armour
+  rotate: false
+  xy: 3721, 2006
+  size: 973, 646
+  orig: 975, 648
+  offset: 1, 1
+  index: -1
+left shoulder armour back
+  rotate: false
+  xy: 1659, 3605
+  size: 796, 425
+  orig: 799, 427
+  offset: 2, 1
+  index: -1
+left shoulder fur
+  rotate: false
+  xy: 2, 881
+  size: 1080, 963
+  orig: 1080, 963
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 1300, 3066
+  size: 537, 803
+  orig: 539, 805
+  offset: 1, 1
+  index: -1
+right arm
+  rotate: true
+  xy: 849, 2437
+  size: 627, 1222
+  orig: 627, 1222
+  offset: 0, 0
+  index: -1
+right cos 1
+  rotate: true
+  xy: 2, 4153
+  size: 74, 434
+  orig: 74, 434
+  offset: 0, 0
+  index: -1
+right cos 2
+  rotate: true
+  xy: 875, 4086
+  size: 141, 405
+  orig: 141, 405
+  offset: 0, 0
+  index: -1
+right cos 3
+  rotate: true
+  xy: 1545, 4040
+  size: 187, 428
+  orig: 187, 428
+  offset: 0, 0
+  index: -1
+right cosmetic
+  rotate: true
+  xy: 1282, 4051
+  size: 176, 261
+  orig: 179, 264
+  offset: 1, 2
+  index: -1
+right eye
+  rotate: false
+  xy: 2847, 3989
+  size: 384, 238
+  orig: 386, 240
+  offset: 1, 1
+  index: -1
+right eyebrow
+  rotate: false
+  xy: 2073, 2360
+  size: 725, 629
+  orig: 725, 629
+  offset: 0, 0
+  index: -1
+right finger
+  rotate: false
+  xy: 4182, 2654
+  size: 669, 593
+  orig: 671, 595
+  offset: 1, 1
+  index: -1
+right foot
+  rotate: false
+  xy: 4551, 3758
+  size: 443, 469
+  orig: 443, 542
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: true
+  xy: 1609, 1677
+  size: 681, 1081
+  orig: 681, 1081
+  offset: 0, 0
+  index: -1
+right hip armour
+  rotate: true
+  xy: 3233, 3957
+  size: 270, 489
+  orig: 272, 491
+  offset: 1, 1
+  index: -1
+right leg
+  rotate: true
+  xy: 516, 3121
+  size: 529, 782
+  orig: 529, 782
+  offset: 0, 0
+  index: -1
+right shoulder armour
+  rotate: true
+  xy: 2692, 1507
+  size: 686, 878
+  orig: 689, 881
+  offset: 2, 2
+  index: -1
+right shoulder fur
+  rotate: true
+  xy: 2800, 2195
+  size: 644, 919
+  orig: 644, 919
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 2, 2531
+  size: 588, 845
+  orig: 588, 845
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: true
+  xy: 2, 3793
+  size: 311, 624
+  orig: 313, 626
+  offset: 1, 1
+  index: -1
+
+orclord2.png
+size: 4290,4740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 120
+  size: 1535, 1602
+  orig: 1535, 1602
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1821, 2956
+  size: 2139, 1782
+  orig: 2139, 1782
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 1539, 2
+  size: 1927, 1498
+  orig: 1927, 1498
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 1821, 1502
+  size: 1452, 2467
+  orig: 1452, 2467
+  offset: 0, 0
+  index: -1
+weap
+  rotate: false
+  xy: 2, 1724
+  size: 1817, 3014
+  orig: 1819, 3016
+  offset: 1, 1
+  index: -1

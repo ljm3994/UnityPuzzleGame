@@ -1,0 +1,362 @@
+
+Steam_gunner.png
+size: 2041,1723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Antennae
+  rotate: false
+  xy: 2, 1358
+  size: 215, 153
+  orig: 215, 153
+  offset: 0, 0
+  index: -1
+Arm 1
+  rotate: true
+  xy: 1640, 1551
+  size: 105, 131
+  orig: 107, 134
+  offset: 1, 1
+  index: -1
+Arm 2
+  rotate: true
+  xy: 1493, 1560
+  size: 102, 145
+  orig: 104, 149
+  offset: 1, 2
+  index: -1
+Bangs 1
+  rotate: true
+  xy: 798, 990
+  size: 247, 317
+  orig: 248, 317
+  offset: 0, 0
+  index: -1
+Bangs 2
+  rotate: true
+  xy: 616, 1262
+  size: 204, 288
+  orig: 204, 289
+  offset: 0, 1
+  index: -1
+Bangs 3
+  rotate: true
+  xy: 492, 1024
+  size: 236, 304
+  orig: 236, 304
+  offset: 0, 0
+  index: -1
+Bangs 4
+  rotate: true
+  xy: 1285, 1423
+  size: 135, 217
+  orig: 135, 217
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1547, 1049
+  size: 221, 329
+  orig: 221, 329
+  offset: 0, 0
+  index: -1
+Body 2
+  rotate: true
+  xy: 1751, 1658
+  size: 63, 64
+  orig: 65, 66
+  offset: 1, 1
+  index: -1
+E_
+  rotate: false
+  xy: 544, 1589
+  size: 305, 95
+  orig: 308, 97
+  offset: 1, 1
+  index: -1
+E_basic
+  rotate: false
+  xy: 913, 1441
+  size: 370, 124
+  orig: 373, 126
+  offset: 1, 1
+  index: -1
+E_bright
+  rotate: false
+  xy: 341, 1490
+  size: 363, 97
+  orig: 365, 99
+  offset: 1, 1
+  index: -1
+E_closed
+  rotate: false
+  xy: 1153, 1665
+  size: 347, 56
+  orig: 350, 63
+  offset: 1, 6
+  index: -1
+Eb_Angry
+  rotate: false
+  xy: 692, 1686
+  size: 248, 35
+  orig: 254, 37
+  offset: 5, 1
+  index: -1
+Eb_Sad
+  rotate: false
+  xy: 406, 1688
+  size: 284, 33
+  orig: 286, 35
+  offset: 1, 1
+  index: -1
+Eb_basic
+  rotate: false
+  xy: 128, 1700
+  size: 276, 21
+  orig: 278, 24
+  offset: 1, 2
+  index: -1
+Eb_frightened
+  rotate: false
+  xy: 1502, 1664
+  size: 247, 57
+  orig: 249, 59
+  offset: 1, 1
+  index: -1
+Effect/Effect_GunFire0000
+  rotate: true
+  xy: 219, 1295
+  size: 193, 395
+  orig: 1500, 1500
+  offset: 1216, 568
+  index: -1
+Effect/Effect_GunFire0001
+  rotate: false
+  xy: 848, 418
+  size: 362, 534
+  orig: 1500, 1500
+  offset: 1045, 517
+  index: -1
+Effect/Effect_GunFire0002
+  rotate: true
+  xy: 2, 2
+  size: 638, 809
+  orig: 1500, 1500
+  offset: 579, 378
+  index: -1
+Goggle
+  rotate: false
+  xy: 2, 1080
+  size: 488, 213
+  orig: 492, 215
+  offset: 2, 1
+  index: -1
+Hair
+  rotate: false
+  xy: 1212, 126
+  size: 670, 574
+  orig: 670, 574
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 1117, 954
+  size: 254, 256
+  orig: 259, 258
+  offset: 3, 1
+  index: -1
+Leg (L)
+  rotate: true
+  xy: 359, 1599
+  size: 87, 183
+  orig: 89, 186
+  offset: 1, 1
+  index: -1
+Leg (R)
+  rotate: true
+  xy: 2, 1531
+  size: 103, 188
+  orig: 105, 191
+  offset: 1, 2
+  index: -1
+M_basic
+  rotate: false
+  xy: 2, 1711
+  size: 63, 10
+  orig: 65, 13
+  offset: 1, 1
+  index: -1
+M_frightened
+  rotate: false
+  xy: 942, 1685
+  size: 75, 36
+  orig: 77, 40
+  offset: 1, 2
+  index: -1
+M_pouty
+  rotate: false
+  xy: 67, 1707
+  size: 59, 14
+  orig: 61, 16
+  offset: 1, 1
+  index: -1
+M_smiling
+  rotate: false
+  xy: 1076, 1668
+  size: 75, 53
+  orig: 77, 55
+  offset: 1, 1
+  index: -1
+Machine Arm 1
+  rotate: true
+  xy: 1773, 1512
+  size: 122, 134
+  orig: 125, 137
+  offset: 2, 2
+  index: -1
+Machine Arm 2
+  rotate: true
+  xy: 192, 1513
+  size: 121, 147
+  orig: 123, 149
+  offset: 1, 1
+  index: -1
+Machine Hand
+  rotate: false
+  xy: 1765, 1272
+  size: 274, 238
+  orig: 280, 241
+  offset: 4, 1
+  index: -1
+Neck
+  rotate: true
+  xy: 1019, 1669
+  size: 52, 55
+  orig: 55, 57
+  offset: 2, 1
+  index: -1
+Scarf2
+  rotate: false
+  xy: 2, 774
+  size: 404, 304
+  orig: 404, 304
+  offset: 0, 0
+  index: -1
+Shoes (L)
+  rotate: false
+  xy: 1912, 1623
+  size: 117, 98
+  orig: 119, 101
+  offset: 1, 1
+  index: -1
+Shoes (R)
+  rotate: false
+  xy: 851, 1585
+  size: 108, 98
+  orig: 110, 101
+  offset: 1, 1
+  index: -1
+Thigh (L)
+  rotate: true
+  xy: 706, 1468
+  size: 115, 205
+  orig: 117, 208
+  offset: 1, 2
+  index: -1
+Thigh (R)
+  rotate: true
+  xy: 1504, 1414
+  size: 135, 259
+  orig: 137, 261
+  offset: 1, 1
+  index: -1
+Twin Tail (L) 1
+  rotate: false
+  xy: 906, 1239
+  size: 318, 200
+  orig: 321, 202
+  offset: 2, 1
+  index: -1
+Twin Tail (L) 2
+  rotate: true
+  xy: 961, 1567
+  size: 96, 264
+  orig: 98, 266
+  offset: 1, 1
+  index: -1
+Twin Tail (L) 3
+  rotate: true
+  xy: 408, 642
+  size: 346, 438
+  orig: 346, 438
+  offset: 0, 0
+  index: -1
+Twin Tail (R) 1
+  rotate: true
+  xy: 1227, 1567
+  size: 96, 264
+  orig: 98, 266
+  offset: 1, 1
+  index: -1
+Twin Tail (R) 2
+  rotate: false
+  xy: 1226, 1210
+  size: 319, 202
+  orig: 319, 202
+  offset: 0, 0
+  index: -1
+Twin Tail (R) 3
+  rotate: true
+  xy: 1375, 702
+  size: 345, 438
+  orig: 345, 438
+  offset: 0, 0
+  index: -1
+Wrist
+  rotate: false
+  xy: 1817, 1636
+  size: 93, 85
+  orig: 96, 87
+  offset: 1, 1
+  index: -1
+smiling
+  rotate: false
+  xy: 2, 1636
+  size: 355, 62
+  orig: 357, 64
+  offset: 1, 1
+  index: -1
+
+Steam_gunner2.png
+size: 1741,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/Effect_GunFire0003
+  rotate: false
+  xy: 1052, 676
+  size: 687, 948
+  orig: 1500, 1500
+  offset: 430, 276
+  index: -1
+Effect/Effect_GunFire0004
+  rotate: false
+  xy: 2, 2
+  size: 671, 1045
+  orig: 1500, 1500
+  offset: 371, 229
+  index: -1
+Effect/Effect_GunFire0005
+  rotate: true
+  xy: 2, 1049
+  size: 575, 1048
+  orig: 1500, 1500
+  offset: 430, 229
+  index: -1
+Effect/Effect_GunFire0006
+  rotate: true
+  xy: 675, 177
+  size: 497, 1041
+  orig: 1500, 1500
+  offset: 462, 242
+  index: -1

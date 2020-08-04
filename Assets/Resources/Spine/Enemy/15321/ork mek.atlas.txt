@@ -1,0 +1,257 @@
+
+ork mek.png
+size: 4868,4590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beard
+  rotate: true
+  xy: 2792, 1746
+  size: 737, 1533
+  orig: 737, 1533
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 2234, 51
+  size: 1507, 895
+  orig: 1507, 895
+  offset: 0, 0
+  index: -1
+earring 1
+  rotate: true
+  xy: 588, 4406
+  size: 182, 316
+  orig: 184, 320
+  offset: 1, 2
+  index: -1
+earring 1 back
+  rotate: true
+  xy: 226, 4419
+  size: 169, 360
+  orig: 171, 363
+  offset: 1, 2
+  index: -1
+earring 2
+  rotate: false
+  xy: 906, 4394
+  size: 237, 194
+  orig: 239, 196
+  offset: 1, 1
+  index: -1
+earring 2 back
+  rotate: true
+  xy: 2, 4428
+  size: 160, 222
+  orig: 162, 224
+  offset: 1, 1
+  index: -1
+left arm
+  rotate: true
+  xy: 2, 1916
+  size: 720, 1259
+  orig: 720, 1259
+  offset: 0, 0
+  index: -1
+left eye
+  rotate: false
+  xy: 1451, 4350
+  size: 532, 238
+  orig: 534, 240
+  offset: 1, 1
+  index: -1
+left eyebrow
+  rotate: false
+  xy: 3743, 2
+  size: 1014, 944
+  orig: 1014, 944
+  offset: 0, 0
+  index: -1
+left foot
+  rotate: true
+  xy: 2835, 3695
+  size: 566, 634
+  orig: 566, 634
+  offset: 0, 0
+  index: -1
+left hair
+  rotate: true
+  xy: 2, 3311
+  size: 537, 1263
+  orig: 537, 1263
+  offset: 0, 0
+  index: -1
+left jaket
+  rotate: true
+  xy: 2, 1117
+  size: 796, 2284
+  orig: 796, 2284
+  offset: 0, 0
+  index: -1
+left jaket back
+  rotate: true
+  xy: 2288, 948
+  size: 796, 1927
+  orig: 796, 1927
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: false
+  xy: 3471, 3613
+  size: 607, 601
+  orig: 607, 601
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 3549, 4216
+  size: 372, 709
+  orig: 372, 709
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 2, 3963
+  size: 971, 429
+  orig: 971, 429
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: false
+  xy: 4080, 3190
+  size: 664, 948
+  orig: 664, 948
+  offset: 0, 0
+  index: -1
+right eye
+  rotate: false
+  xy: 1145, 4366
+  size: 304, 222
+  orig: 306, 224
+  offset: 1, 1
+  index: -1
+right eyebrow
+  rotate: true
+  xy: 975, 3850
+  size: 498, 721
+  orig: 498, 721
+  offset: 0, 0
+  index: -1
+right finger
+  rotate: false
+  xy: 4260, 4140
+  size: 606, 448
+  orig: 608, 450
+  offset: 1, 1
+  index: -1
+right foot
+  rotate: false
+  xy: 1698, 3782
+  size: 510, 510
+  orig: 510, 510
+  offset: 0, 0
+  index: -1
+right hair
+  rotate: true
+  xy: 3420, 2485
+  size: 703, 1125
+  orig: 703, 1125
+  offset: 0, 0
+  index: -1
+right hand 1
+  rotate: true
+  xy: 2, 2695
+  size: 614, 1162
+  orig: 614, 1162
+  offset: 0, 0
+  index: -1
+right hand 2
+  rotate: true
+  xy: 1263, 1915
+  size: 721, 1527
+  orig: 721, 1527
+  offset: 0, 0
+  index: -1
+right jaket
+  rotate: true
+  xy: 1166, 2638
+  size: 554, 2252
+  orig: 554, 2252
+  offset: 0, 0
+  index: -1
+right jaket back
+  rotate: true
+  xy: 1267, 3194
+  size: 499, 1931
+  orig: 499, 1931
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: true
+  xy: 2210, 3744
+  size: 543, 623
+  orig: 543, 623
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: false
+  xy: 1985, 4294
+  size: 613, 294
+  orig: 615, 296
+  offset: 1, 1
+  index: -1
+shoulder back
+  rotate: false
+  xy: 2995, 4263
+  size: 552, 325
+  orig: 554, 327
+  offset: 1, 1
+  index: -1
+tooth
+  rotate: true
+  xy: 2600, 4289
+  size: 299, 393
+  orig: 303, 395
+  offset: 2, 1
+  index: -1
+weap
+  rotate: true
+  xy: 2, 316
+  size: 799, 2230
+  orig: 801, 2233
+  offset: 1, 2
+  index: -1
+
+ork mek2.png
+size: 4799,2052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1872, 329
+  size: 1597, 1721
+  orig: 1597, 1721
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 46
+  size: 2004, 1868
+  orig: 2004, 1868
+  offset: 0, 0
+  index: -1
+left hand 1
+  rotate: true
+  xy: 3471, 2
+  size: 1066, 1064
+  orig: 1066, 1064
+  offset: 0, 0
+  index: -1
+left hand 2
+  rotate: true
+  xy: 3471, 1070
+  size: 980, 1326
+  orig: 980, 1326
+  offset: 0, 0
+  index: -1

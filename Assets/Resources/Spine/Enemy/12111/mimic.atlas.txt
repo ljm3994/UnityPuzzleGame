@@ -1,0 +1,118 @@
+
+mimic.png
+size: 4056,1304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 2933, 24
+  size: 1278, 429
+  orig: 1278, 429
+  offset: 0, 0
+  index: -1
+body-iower
+  rotate: false
+  xy: 2, 354
+  size: 1351, 948
+  orig: 1351, 990
+  offset: 0, 0
+  index: -1
+body-upper
+  rotate: false
+  xy: 1355, 45
+  size: 1367, 557
+  orig: 1367, 557
+  offset: 0, 0
+  index: -1
+body-upper-2
+  rotate: false
+  xy: 1355, 604
+  size: 1576, 698
+  orig: 1576, 698
+  offset: 0, 0
+  index: -1
+coin-tongue
+  rotate: true
+  xy: 2724, 2
+  size: 187, 105
+  orig: 202, 109
+  offset: 1, 1
+  index: -1
+coin1
+  rotate: false
+  xy: 3364, 15
+  size: 230, 135
+  orig: 232, 138
+  offset: 1, 1
+  index: -1
+coin2
+  rotate: false
+  xy: 3596, 75
+  size: 274, 185
+  orig: 277, 187
+  offset: 1, 1
+  index: -1
+drool
+  rotate: false
+  xy: 3945, 155
+  size: 109, 529
+  orig: 109, 529
+  offset: 0, 0
+  index: -1
+drool-tongue
+  rotate: false
+  xy: 2831, 39
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2724, 400
+  size: 196, 202
+  orig: 198, 205
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 2724, 191
+  size: 193, 207
+  orig: 195, 209
+  offset: 1, 1
+  index: -1
+eyeball
+  rotate: true
+  xy: 3554, 262
+  size: 422, 389
+  orig: 424, 391
+  offset: 1, 1
+  index: -1
+teeth
+  rotate: true
+  xy: 3364, 152
+  size: 532, 188
+  orig: 532, 220
+  offset: 0, 0
+  index: -1
+teeth-upper
+  rotate: false
+  xy: 2, 34
+  size: 1075, 318
+  orig: 1075, 318
+  offset: 0, 0
+  index: -1
+teeth-upper-2
+  rotate: false
+  xy: 1079, 86
+  size: 246, 266
+  orig: 246, 266
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 3364, 686
+  size: 592, 616
+  orig: 592, 616
+  offset: 0, 0
+  index: -1

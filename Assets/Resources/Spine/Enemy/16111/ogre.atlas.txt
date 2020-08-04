@@ -1,0 +1,173 @@
+
+ogre.png
+size: 4535,4390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chin
+  rotate: false
+  xy: 2435, 3769
+  size: 962, 619
+  orig: 962, 619
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 126, 4006
+  size: 396, 382
+  orig: 399, 384
+  offset: 2, 1
+  index: -1
+eye 2
+  rotate: false
+  xy: 524, 4006
+  size: 396, 382
+  orig: 399, 384
+  offset: 2, 1
+  index: -1
+head
+  rotate: false
+  xy: 2924, 1126
+  size: 1258, 1020
+  orig: 1258, 1020
+  offset: 0, 0
+  index: -1
+left arm
+  rotate: true
+  xy: 2, 229
+  size: 1083, 1533
+  orig: 1114, 1533
+  offset: 31, 0
+  index: -1
+left foot
+  rotate: true
+  xy: 2, 3330
+  size: 674, 789
+  orig: 674, 789
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: true
+  xy: 1010, 1314
+  size: 871, 1912
+  orig: 871, 1912
+  offset: 0, 0
+  index: -1
+left hand 2
+  rotate: true
+  xy: 1537, 2
+  size: 1122, 2304
+  orig: 1122, 2304
+  offset: 0, 0
+  index: -1
+left hand finger
+  rotate: true
+  xy: 922, 3878
+  size: 510, 764
+  orig: 510, 764
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: true
+  xy: 1894, 2187
+  size: 828, 1190
+  orig: 828, 1190
+  offset: 0, 0
+  index: -1
+meat
+  rotate: true
+  xy: 3399, 3762
+  size: 626, 1043
+  orig: 626, 1043
+  offset: 0, 0
+  index: -1
+meat 2
+  rotate: true
+  xy: 793, 3145
+  size: 626, 975
+  orig: 626, 975
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 1770, 3094
+  size: 1001, 673
+  orig: 1001, 673
+  offset: 0, 0
+  index: -1
+plate
+  rotate: false
+  xy: 3592, 2983
+  size: 903, 777
+  orig: 905, 780
+  offset: 1, 1
+  index: -1
+right arm
+  rotate: true
+  xy: 3086, 2148
+  size: 833, 1447
+  orig: 833, 1447
+  offset: 0, 0
+  index: -1
+right foot
+  rotate: true
+  xy: 1688, 3773
+  size: 615, 745
+  orig: 615, 745
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: true
+  xy: 2, 2341
+  size: 751, 1890
+  orig: 751, 1890
+  offset: 0, 0
+  index: -1
+right hand finger
+  rotate: true
+  xy: 2773, 3017
+  size: 743, 817
+  orig: 743, 817
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: true
+  xy: 2, 1471
+  size: 868, 1006
+  orig: 868, 1006
+  offset: 0, 0
+  index: -1
+tooth
+  rotate: true
+  xy: 2, 4272
+  size: 116, 122
+  orig: 119, 125
+  offset: 1, 1
+  index: -1
+
+ogre2.png
+size: 4043,4067
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1770, 1527
+  size: 2196, 2538
+  orig: 2196, 2538
+  offset: 0, 0
+  index: -1
+right hand 2
+  rotate: true
+  xy: 1770, 322
+  size: 1203, 2271
+  orig: 1203, 2271
+  offset: 0, 0
+  index: -1
+weap
+  rotate: false
+  xy: 2, 2
+  size: 1766, 4063
+  orig: 1770, 4065
+  offset: 2, 1
+  index: -1
